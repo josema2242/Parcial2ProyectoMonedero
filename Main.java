@@ -25,7 +25,7 @@ public class Main {
             
             
             
-            /* se usa un bucle for, para que el menú de opciones se repita hasta que el usuario ingrese 
+            /* se usa un bucle do while, para que el menú de opciones se repita hasta que el usuario ingrese 
            una opcion incorrecta que no está en el menú. */
             
             do {     
